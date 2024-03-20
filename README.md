@@ -1,5 +1,4 @@
 # Windows-Optimization-Script
-Windows Optimization Script
 
 Run Start.bat with admin privilages.
 
@@ -84,3 +83,5 @@ This script provides various optimization actions for Windows. The following but
 19. Disable Edge PDF Handling:
     - Disables Microsoft Edge's handling of PDF files.
     - Allows other PDF viewers to handle PDF files by default.
+   
+
